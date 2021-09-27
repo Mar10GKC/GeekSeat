@@ -3,7 +3,9 @@ Entry Project
 
 This mini project is written in Java.
 
-It contains a java classwhich solves the problem of the witch saga.
+It contains a java class which solves the problem of the witch saga.
+
+also you can find a view of execution
 
 Somewhere far far away, there is a village which is controlled by a dark and cunning witch.
 Coincidentally, this witch is also a die-hard programmer.
